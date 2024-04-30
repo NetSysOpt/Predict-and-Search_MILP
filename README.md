@@ -11,8 +11,7 @@ If you would like to utilize Predict-and-Search_MILP in your research, we kindly
       title={A GNN-Guided Predict-and-Search Framework for Mixed-Integer Linear Programming}, 
       author={Qingyu Han and Linxin Yang and Qian Chen and Xiang Zhou and Dong Zhang and Akang Wang and Ruoyu Sun and Xiaodong Luo},
       year={2023},
-      eprint={2302.05636},
-      archivePrefix={arXiv},
-      primaryClass={math.OC}
+      journal={International Conference on Learning Representations},
+      url={https://openreview.net/forum?id=pHMpgT5xWaE}
 }
 ```
